@@ -12,6 +12,9 @@ tags = [
 noindex = false
 +++
 
+なんかHesai Lidarを購入してたので、物理配線を行って起動してみたという話
+<!--more-->
+
 
 ## はじめに
 
