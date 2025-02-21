@@ -107,8 +107,8 @@ lidar:
 correction_fileとfiretimesはHesaiLidar_SDK_2.0から持ってくる。
 PandarQT (64Line)の場合、次の2ファイルを用意して、config.yamlで指定すると良さそう（間違ってたら教えて下さい）。
 
-- ![correction_file](https://github.com/HesaiTechnology/HesaiLidar_SDK_2.0/blob/master/correction/angle_correction/PandarQT_Angle%20Correction%20File.csv)
-- ![firetime](https://github.com/HesaiTechnology/HesaiLidar_SDK_2.0/blob/master/correction/firetime_correction/PandarQT_Firetime%20Correction%20File.csv)
+- correction_file => https://github.com/HesaiTechnology/HesaiLidar_SDK_2.0/blob/master/correction/angle_correction/PandarQT_Angle%20Correction%20File.csv
+- firetime => https://github.com/HesaiTechnology/HesaiLidar_SDK_2.0/blob/master/correction/firetime_correction/PandarQT_Firetime%20Correction%20File.csv
 
 ### 参考文献
 
