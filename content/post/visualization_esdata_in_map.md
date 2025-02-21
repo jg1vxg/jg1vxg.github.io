@@ -1,7 +1,7 @@
 +++
 author = "akirakko"
 title = "Kibanaで市町村データを可視化した話"
-date = "2025-02-22"
+date = "2025-02-21"
 description = "Kibana/ESを使って、市町村の形にそってヒートマップを書いた話"
 tags = [
     "Kibana",
