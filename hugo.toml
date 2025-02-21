@@ -117,3 +117,16 @@ tag = "tags"
     id = 'G-53388XKQ4X'
 googleAnalytics = "G-53388XKQ4X"
 
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+  [[related.indices]]
+    name = "keywords"
+    weight = 100
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
