@@ -1,6 +1,7 @@
 {{ define "main" }}
-  {{- partial "post.html" . -}}
-  {{ partial "related.html" . }}
+{{- partial "post.html" . -}}
+{{- partial "breadcrumb.html" . -}}
+  {{- partial "related.html" . -}}
 {{ end }}
 
 {{ define "script" }}
