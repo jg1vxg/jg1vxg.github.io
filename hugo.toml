@@ -5,6 +5,8 @@ title = '徒然なるままにあれこれメモ'
 hasCJKLanguage = false
 # summaryLength = 80
 pagination.pagerSize = 3
+enableRobotsTXT = false
+
 
 theme = "hulga"
 
