@@ -25,7 +25,7 @@ theme = "hulga"
   # linkColor = "#ff3f80"
 
   # subtitle on homepage
-  subtitle = "徒然なるままにメモ"
+  subtitle = "主に備忘録"
 
   # copyright text on footer
   copyright = "Copyright © 2025 akirakko. All rights reserved."
