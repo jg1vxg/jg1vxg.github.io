@@ -116,3 +116,8 @@ GPSのシリアルとPPSをVLP-16に接続できるようです。
 ](https://support.oxts.com/hc/en-us/articles/360017123620-Hardware-Integration-with-Velodyne-LiDAR-)
 - [Ethernet LAN - Straight Cable / Cross Cable
 ](https://www.infraexpert.com/study/ethernet3.html)
+
+***
+
+この記事はQiitaから転記しました。
+https://qiita.com/vxgatrtl/items/9a0ca35267ed63cecd6a
