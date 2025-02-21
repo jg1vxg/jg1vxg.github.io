@@ -1,7 +1,7 @@
 baseURL = 'https://blog.akirakko.com/'
 languageCode = 'ja-jp'
 defaultContentLanguage = 'jp'
-title = ''
+title = '徒然なるままにあれこれメモ'
 hasCJKLanguage = false
 # summaryLength = 80
 pagination.pagerSize = 3
@@ -92,11 +92,11 @@ noClasses = false
     name = "Tags"
     url = "/tags/"
     weight = 3
-#  [[menu.main]]
-#    identifier = "about"
-#    name = "About"
-#    url = "/about/"
-#    weight = 4
+ [[menu.main]]
+   identifier = "about"
+   name = "About"
+   url = "/about/"
+   weight = 4
 #  [[menu.main]]
 #    identifier = "search"
 #    name = "Search"
