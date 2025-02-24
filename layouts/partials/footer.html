@@ -1,0 +1,17 @@
+<footer class="footer">
+  <div class="content has-text-centered">
+    <p>Powered by <a href="https://gohugo.io">Hugo</a>. Theme <a href="https://github.com/wlh320/hugo-theme-hulga">Hulga</a></p>
+    <p><a href="https://www.flaticon.com/free-icons/seafood" title="seafood icons">Seafood icons created by Sergei Kokota - Flaticon</a></p>
+    <p>
+    {{- if .Site.Params.copyright -}}
+    {{ .Site.Params.copyright }}
+    {{- else -}}
+    {{ .Site.Copyright }}
+    {{ end }}
+    </p>
+  </div>
+</footer>
+{{ if .Site.Params.pwa }}
+{{ partial "pwa.html" . }}
+{{ end }}
+{{ template "_internal/google_analytics.html" . }}
