@@ -1,7 +1,7 @@
 +++
 author = "akirakko"
 title = "Memo：PoE Injector powered by USB-PD for Site Survey"
-date = "2025-08-27"
+date = "2025-08-25"
 description = "USB-PD to PoE"
 tags = [
     "PoE",
