@@ -38,3 +38,4 @@ piece of cake
 I successfully powered up both the UniFi U7 Pro and Cisco 9130 APs using an Anker 737 Power Bank.
 According to my Type-C tester (KM003C) readings, power consumption hovers around 20W.
 Anker 737 give you approximately 3-4 hours of runtime on the portable battery pack.
+なにかケースを作らなきゃね
