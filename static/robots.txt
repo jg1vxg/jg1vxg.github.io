@@ -1,4 +1,2 @@
 User-agent: *
-Disallow: /tags/
-Disallow: /about/
 Sitemap: https://blog.akirakko.com/sitemap.xml
