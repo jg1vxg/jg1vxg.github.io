@@ -1,7 +1,7 @@
 +++
 author = "akirakko"
 title = "Memo：SEIL x86 on ProxmoxにGoBGPでルートを注入してみる話"
-date = "2025-09-23"
+date = "2025-09-22"
 description = "Inject full-route into seil-x86 on Proxmox"
 tags = [
     "SEIL",
@@ -309,3 +309,4 @@ Logを見てみるとCannot allocate memoryが
 - https://disconinja.hatenablog.com/entry/2024/03/12/090206#2-OVA%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88
 - https://qiita.com/yas-nyan/items/efd6c587b88678878da6
 - https://www.seil.jp/doc/index.html
+
