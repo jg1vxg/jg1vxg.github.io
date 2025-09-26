@@ -1,7 +1,7 @@
 +++
 author = "akirakko"
 title = "Memo：SEIL x86 on ProxmoxにGoBGPでルートを注入してみる話"
-date = "2025-09-22"
+date = "2025-09-25"
 description = "Inject full-route into seil-x86 on Proxmox"
 tags = [
     "SEIL",
@@ -21,11 +21,11 @@ Memo：SEIL x86 on ProxmoxにGoBGPでルートを注入してみる話
 私的かつラボ環境での実験です。
 
 ## 結論
-10万経路を超えた辺りで溢れた、よく頑張ったと思う。
+10万経路を超えた辺りで溢れた。
 
 `509 Sep 23 02:44:25   error  route bgpd[4901]: calloc : can't allocate memory for size 64: Cannot allocate memory`
 
-またBGPが不安定なときでも、コンソールは問題なく使えていたのがとても良き。
+BGPが不安定なときでも、コンソールは問題なく使えていたのがとても良き。
 
 ## 背景
 
