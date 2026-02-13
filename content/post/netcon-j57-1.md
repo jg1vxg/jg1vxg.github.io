@@ -26,7 +26,7 @@ netcon (janog57) の問題回答にClaude Codeを使ってみたのでそのま�
 
 ※人間追記5：作業ディレクトリを丸ごとgithubに乗せてるので良ければ：[GitHub](https://github.com/jg1vxg/netcon-j57-public)
 
-※人間追記6：キャプチャ失敗してて悲しみ...ありえん見にくいが、LEVEL2を解いてる時のスクショ↓
+※人間追記6：キャプチャ失敗してて悲しみ...ありえん見にくいが、LEVEL1を解いてる時のスクショ↓
 
 ![117m9s](https://blog.akirakko.com/post/netcon-j57-1/117m9s.jpg)
 
