@@ -1,8 +1,8 @@
 +++
 author = "akirakko"
-title = "netcon (janog57) 振り返り"
+title = "NETCON (JANOG57) 振り返り"
 date = "2026-02-13"
-description = "netcon (janog57)に Claude Codeを使ってみた話"
+description = "NETCON (JANOG57)に Claude Codeを使ってみた話"
 tags = [
     "janog57",
     "netcon",
@@ -11,10 +11,10 @@ tags = [
 noindex = false
 +++
 
-netcon (janog57) の問題回答にClaude Codeを使ってみたのでそのまとめ
+NETCON (JANOG57) の問題回答にClaude Codeを使ってみたのでそのまとめ
 <!--more-->
 
-# netcon (janog57) に Claude Codeを使ってみた話
+# NETCON (JANOG57) に Claude Codeを使ってみた話
 
 ※人間追記1：この記事はClaude Codeによって執筆されました。
 
