@@ -24,7 +24,11 @@ netcon (janog57) の問題回答にClaude Codeを使ってみたのでそのま�
 
 ※人間追記4：完全な手放しを夢見ていましたが、そこまでは行きませんでした。10問ぐらい連続で解いていると問題探索のキレが悪くなってくるので、都度 `/clear` を叩いていました。
 
-※人間追記5：作業ディレクトリを丸ごとgithubに乗せてるので良ければ：https://github.com/jg1vxg/netcon-j57-public
+※人間追記5：作業ディレクトリを丸ごとgithubに乗せてるので良ければ：[GitHub](https://github.com/jg1vxg/netcon-j57-public)
+
+※人間追記6：キャプチャ失敗してて悲しみ...ありえん見にくいが、LEVEL2を解いてる時のスクショ↓
+
+![117m9s](https://blog.akirakko.com/post/netcon-j57-1/2026-02-11 00-49-26-117m9s.jpg)
 
 ## この記事について
 
