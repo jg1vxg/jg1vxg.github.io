@@ -13,9 +13,12 @@ APにVLANをたくさん収容したかったが、フロアスイッチの設�
 
 ## 概要
 Cisco Meraki APのEoGRE（Ethernet over GRE）機能を使い、Wi-FiクライアントのL2トラフィックをNEC IXで終端・ブリッジした。
+
 CW9172 + NEC IX3110の組み合わせでは500Mbpsぐらい流したところでCPU律速となった。特にハードルがなければASR終端やVLANを引っ張るほうが無難。
 
-既存ネットワーク上のVLAN 212およびVLAN 427を、Meraki APを経由してWi-Fiクライアントまで延伸したい。APは2台で、管理用サブネット172.21.19.0/26内にDHCPでIPアドレスが割り当てられる。延伸先のサブネットにはDHCPサーバが設置済みのため、NEC IX側ではNATやDHCPの処理は行わず、純粋なL2ブリッジとして動作させる。
+既存ネットワーク上のVLAN 212およびVLAN 427を、Meraki APを経由してWi-Fiクライアントまで延伸したい。
+
+APは2台で、管理用サブネット10.0.0.0/24内にDHCPでIPアドレスが割り当てられる。延伸先のサブネットにはDHCPサーバが設置済みのため、NEC IX側ではNATやDHCPの処理は行わず、純粋なL2ブリッジとして動作させる。
 
 Meraki Dashboard上の設定パスは `Wireless > Configure > Access control > Client IP and VLAN` で、`Tunneled` → `Ethernet over GRE` を選択してコンセントレーター (=NEC IX) のIPとGRE Keyを入力する。
 
