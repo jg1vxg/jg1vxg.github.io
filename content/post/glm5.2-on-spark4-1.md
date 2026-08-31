@@ -146,7 +146,7 @@ backend は `B12X_MLA_SPARSE` を指定している。
 関連して `--hf-overrides` で `index_topk_pattern` を渡している。
 
 
-### 6.2 fp8_ds_mla
+### fp8_ds_mla
 
 KV cache dtype は `fp8_ds_mla`。
 
