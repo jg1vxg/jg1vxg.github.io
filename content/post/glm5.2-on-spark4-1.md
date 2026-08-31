@@ -11,7 +11,7 @@ DGX Spark を4台並べて、GLM-5.2 を vLLM でしばらくサーブした備�
 参考元: [GLM-5.2-QuantTrio-TP4-DCP2-4x-DGX-Spark](https://github.com/joesinvestments/GLM-5.2-QuantTrio-TP4-DCP2-4x-DGX-Spark)
 
 ノード名は `melchior` / `balthasar` / `casper` / `artaban` 。
-
+<!--more-->
 
 | 項目 | 値 |
 |---|---|
