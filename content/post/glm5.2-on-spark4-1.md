@@ -3,7 +3,7 @@ title = "DGX Spark 4台でGLM-5.2をvLLMサーブする"
 date = "2026-08-31T00:00:00+09:00"
 tags = ["DGX Spark", "GLM-5.2", "vLLM", "NCCL", "RoCE", "DCP", "MTP", "LLM"]
 description = "4台束ねてGLM-5.2 (Int4-Int8Mix, 405GB) をvLLMで本番サーブしている構成の備忘録。TP4/DCP2/MTP2、fp8_ds_mla、RoCEレールをやってみた話"
-noindex = true
+noindex = false
 +++
 
 DGX Spark を4台並べて、GLM-5.2 を vLLM でしばらくサーブした備忘録。
